@@ -1,0 +1,4 @@
+[05-Apr-2021 10:32:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/igpwxwmy/public_html/laravel/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/igpwxwmy/public_html/laravel/config/app.php on line 16
