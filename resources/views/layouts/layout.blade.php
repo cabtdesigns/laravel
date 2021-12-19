@@ -17,7 +17,7 @@
         @yield('content')
 
         <footer>
-            copyright
+            copyright!!
         </footer>
     </body>
 </html>
